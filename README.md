@@ -11,6 +11,30 @@
 
 - ⚡ Fun fact **I am funny**
 
+  <h3 align="left">About me  
+Hi, I'm Mahmuda Nasrin, a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into real web experiences using modern technologies and best practices.
+My focus is on writing efficient code, pixel-perfect UI, and delivering smooth user interactions.
+
+💡 What I Do
+
+Create responsive and modern UI with HTML5, CSS3, JavaScript
+
+Build dynamic web apps using React
+
+Work with backend and APIs using MongoDB, Express.js
+
+Implement authentication & hosting with Firebase
+
+Design beautiful interfaces using Tailwind CSS, Bootstrap & Daisy UI
+
+🚀 My Goals
+
+I want to grow as a professional Frontend Developer, contribute to real-world projects, and build high-quality applications that provide great user experiences.
+
+📫 Feel free to connect with me!
+
+I'm always open to learning, collaboration, and exciting new opportunities.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmuda nasrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmuda nasrin" height="30" width="40" /></a>
