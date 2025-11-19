@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mahmudanasrin078/MahmudaNasrin078/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Mahmuda Nasrin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
