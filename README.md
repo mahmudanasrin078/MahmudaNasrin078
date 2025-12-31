@@ -50,7 +50,7 @@ I'm always open to learning, collaboration, and exciting new opportunities.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmuda nasrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmuda nasrin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmudanasrin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmuda nasrin" height="30" width="40" /></a>
 <a href="https://fb.com/mahmuda nasrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmuda nasrin" height="30" width="40" /></a>
 </p>
 
